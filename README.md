@@ -77,9 +77,8 @@ Top influencing features:
 ---
 
 ## ▶️ Project Walkthrough Video
-🎥 Copy the Video link
-    Paste it and search it on Chrome/edge
-    (https://drive.google.com/file/d/1HPtC7WuF0efp0ruBlnppxt6GTjQHtExz/view?usp=drive_link)
+🎥 Click on the link 
+(https://drive.google.com/file/d/1HPtC7WuF0efp0ruBlnppxt6GTjQHtExz/view?usp=drive_link)
 
 
 
